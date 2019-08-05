@@ -1,4 +1,4 @@
-# animated Cat
+# Animated Cat
 <H2> Hi! </H2> 
 This is my fourth app created on flutter.
 
