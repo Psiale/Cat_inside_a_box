@@ -1,18 +1,16 @@
-# Cat_inside_a_box
+# animation
 
-<H2> Hi! </H2> 
-This is my fourth app created on flutter.
+A new Flutter application.
 
-<H2> The purpouse of this app is: </H2>
+## Getting Started
 
+This project is a starting point for a Flutter application.
 
-<H3>* To create an example of an animation with dart.</H3>
-<H3>* Make an in-depth use of Animation dart library components such as:   </H3>
-<H3>* animation controller, tween, curves and the animated builder</H3>
+A few resources to get you started if this is your first Flutter project:
 
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-
-<H1> app overview </H1>
-<img src="https://raw.githubusercontent.com/Psiale/Cat_inside_a_box/master/ezgif.com-video-to-gif.gif">
-
-
+For help getting started with Flutter, view our 
+[online documentation](https://flutter.dev/docs), which offers tutorials, 
+samples, guidance on mobile development, and a full API reference.
