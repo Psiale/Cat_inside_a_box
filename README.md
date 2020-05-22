@@ -3,8 +3,8 @@
 
 * [The purpouse of this app](#The-purpouse-of-this-app)
 * [Built With](#built-with)
-* [Credits](#contact)
-* [Live Demo](#Live-Version)
+* [Author](#author)
+
 <br>
 
 # The purpouse of this app is:
@@ -21,5 +21,10 @@ Dart Animation Library and flutter.
 
 <img src="https://raw.githubusercontent.com/Psiale/Cat_inside_a_box/master/ezgif.com-video-to-gif.gif">
 
-# Credits
-### https://github.com/Psiale
+# Author
+
+👤 **Alexis Sanchez**
+
+- Github: [Alexis Sanchez](https://github.com/Psiale)
+- Twitter: [Alexis Sanchez](https://twitter.com/TFH_)
+- Linkedin: [Alexis Sanchez](https://www.linkedin.com/in/alexis-sanchez-dev/)
