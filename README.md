@@ -1,13 +1,13 @@
 # Animated Cat
 ### An animation of a Cat inside a Box
 
-* [The purpouse of this app](#The-purpouse-of-this-app)
+* [The purpose of this app](#The-purpouse-of-this-app)
 * [Built With](#built-with)
 * [Author](#author)
 
 <br>
 
-# The purpouse of this app is:
+# The purpose of this app is:
 
 * To display the use of Animation on flutter
 * Making in-depth use of the Dart Animation Library
